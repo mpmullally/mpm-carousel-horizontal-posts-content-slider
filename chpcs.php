@@ -20,7 +20,7 @@ class CHPCS {
 		'read_more_text' => 'Read more',
 		'number_of_posts_to_display' => '10',
 		'posts_order' => 'desc',
-		'posts_orderby' => 'id',
+		'posts_orderby' => 'slug',
 		'category' => '',
 		'display_pagination' => false,
 		'display_excerpt' => true,
